@@ -17,3 +17,7 @@
 2016-02-19 15:33:03,388 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\Jenkins\test\testJenkins\maven-demo\src\main\resources
 2016-02-19 15:33:03,389 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-02-19 15:33:03,389 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\Jenkins\test\testJenkins\maven-demo\src\test\resources
+2016-02-19 15:46:46,934 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-19 15:46:46,935 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\Jenkins\test\testJenkins\maven-demo\src\main\resources
+2016-02-19 15:46:46,936 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-02-19 15:46:46,936 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Development\Jenkins\test\testJenkins\maven-demo\src\test\resources
